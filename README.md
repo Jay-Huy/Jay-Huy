@@ -1,5 +1,8 @@
-  <img height="150" src="https://th.bing.com/th/id/OIP.voVmH_P-WhYnjVZYb-WUhwHaHa?w=1024&h=1024&rs=1&pid=ImgDetMain"  />
-</div>
+<h1 align="center">Hi👋 Welcome, I'm Jay</h1>
+
+###
+
+<h3 align="left">👩‍💻  Reach me at:</h3>
 
 ###
 
@@ -12,15 +15,11 @@
 
 ###
 
-<h1 align="center">Hi👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Huy Tu Le (Jay). I'm senior student majoring in Data Science at University of Information Technology, VNU-HCM. I'm currently looking for an opportunity to learn, work in professional environment. Furthermore, i am trying to become a part of AI labor market in future<br><br>For experience:<br>- 🔭 I’m working as AI Engineer Intern at [DopikAI](https://dopikai.com/).<br>- 📚 I have had opportunities to deal with many aspect in NLP and CV, such as LLMs and Multi-Object Tracking for instance.</p>
+<p align="left">I'm Huy Tu Le (Jay). I'm senior student majoring in Data Science at University of Information Technology, VNU-HCM. I'm currently looking for an opportunity to learn, work in professional environment. Furthermore, i am trying to become a part of AI labor market in future<br><br>For experience:<br>- 🔭 I’m working as AI Engineer Intern at DopikAI.<br>- 📚 I have had opportunities to deal with many aspect in NLP and CV, such as LLMs and Multi-Object Tracking for instance.</p>
 
 ###
 
@@ -45,5 +44,3 @@
 </div>
 
 ###
-
-<h3 align="left">
