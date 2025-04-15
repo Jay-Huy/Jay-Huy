@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Huy Tu Le (Jay). I'm senior student majoring in Data Science at University of Information Technology, VNU-HCM. I'm currently looking for an opportunity to learn, work in professional environment. Furthermore, i am trying to become a part of AI labor market in future<br><br>For experience:<br>- 🔭 I’m working as AI Engineer at DopikAI.<br>- 📚 I have had opportunities to deal with many aspect in NLP and CV, such as LLMs and Multi-Object Tracking for instance.</p>
+<p align="left">I'm Huy Tu Le (Jay). I'm senior student majoring in Data Science at University of Information Technology, VNU-HCM. I'm currently looking for an opportunity to learn, work in professional environment. Furthermore, i am trying to become a part of AI labor market in future<br><br>For experience:<br>- 🔭 I have experienced as an AI trainee and intern in several companies.<br>- 📚 I have had opportunities to deal with many aspect in NLP and CV, such as LLMs and Multi-Object Tracking for instance.</p>
 
 ###
 
